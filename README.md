@@ -8,7 +8,7 @@
 
 *pw_login* asks for username, and if found in .dat-file, asks for password. Then checks if the entered password is correct!
 
-Cod for masked input of password was taken from:
+Code for masked input of password was taken from:
 http://codingstreet.com/c-code-to-hide-input-password/
 
 ---
