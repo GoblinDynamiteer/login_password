@@ -2,7 +2,7 @@
 
 ---
 
-*Simple personal project for practice C programming.* 
+*Simple personal project for practicing C programming.* 
 
 *pw_set* asks for a new username and password. "scrambles" the password and saves data to a .dat-file.
 
