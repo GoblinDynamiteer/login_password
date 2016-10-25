@@ -1,0 +1,8 @@
+Login: JohanK
+Lösen: Lösenord123
+
+Login: Ronald2
+Lösen: bengt1!
+
+Login: userKalle
+Lösen: 98765abc123!
